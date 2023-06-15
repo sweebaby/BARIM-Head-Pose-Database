@@ -15,5 +15,5 @@ For each sequence, there are four camera parameter files included. The "Depth Lo
 
 Each sequence contains average of 500 frames. For each frame, the dataset provides the following files: "_rgb.png", "_depth.pgm", "_mask.png", and "_pcd.ply". The point cloud data has already been aligned with the RGB images.The "_pose.txt" file provides the head pose angles for each frame. The order of the Euler angles in the file is pitch, roll, and yaw.
 
-
+We provide the information included in one frame of the BARIM dataset. To download the complete dataset, please contact: fty0718@163.com.
 
